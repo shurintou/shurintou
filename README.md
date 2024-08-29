@@ -36,16 +36,25 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ,etc.
 
-
-
-
-
 ## 📊 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=shurintou&show_icons=true&rank_icon=github&theme=transparent&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shurintou&layout=compact&theme=transparent&hide=objective-j)
 
+## :books:My Blog
+
+I share my thoughts on programming, technology, and other topics on my blog. Check it out here: [My Blog](https://shurintou.github.io/) 
+
+## :star2:My Projects
+
+Here are some of the projects I've been working on:
+- **[journey-to-the-west](https://github.com/shurintou/journey-to-the-west):** This is a Chinese traditional card game which can be played online with multiplayer.
+![](https://github.com/shurintou/journey-to-the-west/blob/master/docs/play_game.gif)
+- **[count-function-lines](https://github.com/shurintou/count-function-lines):** This is a tool that can be used to count the number of lines in each function in every file of your project.
+![](https://github.com/shurintou/count-function-lines/blob/master/docs/demo.gif?raw=true)
+- **[man-hour-caculator](https://github.com/shurintou/man-hour-caculator):** This is a tool that help users record and calculate their man-hour of each month.
+![](https://github.com/shurintou/man-hour-caculator/blob/master/docs/overview.gif)
 
 ## 📫 How to reach me:
 
