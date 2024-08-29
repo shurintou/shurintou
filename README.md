@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=shurintou&show_icons=true&theme=transparent&hide=contribs)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=shurintou&show_icons=true&rank_icon=github&theme=transparent&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shurintou&layout=compact&theme=transparent&hide=objective-j)
 
