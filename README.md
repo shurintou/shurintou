@@ -54,10 +54,13 @@ I share my thoughts on programming, technology, and other topics on my blog. Che
 
 Here are some of the projects I've been working on:
 - **[journey-to-the-west](https://github.com/shurintou/journey-to-the-west):** This is a Chinese traditional card game which can be played online with multiplayer.
+
 ![](https://github.com/shurintou/journey-to-the-west/blob/master/docs/play_game.gif)
 - **[count-function-lines](https://github.com/shurintou/count-function-lines):** This is a tool that can be used to count the number of lines in each function in every file of your project.
+
 ![](https://github.com/shurintou/count-function-lines/blob/master/docs/demo.gif?raw=true)
 - **[man-hour-caculator](https://github.com/shurintou/man-hour-caculator):** This is a tool that help users record and calculate their man-hour of each month.
+
 ![](https://github.com/shurintou/man-hour-caculator/blob/master/docs/overview.gif)
 
 ## 📫 How to reach me:
