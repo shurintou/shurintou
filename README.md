@@ -38,13 +38,17 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=shurintou&show_icons=true&rank_icon=github&theme=transparent&hide=contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shurintou&layout=compact&theme=transparent&hide=objective-j)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shurintou&show_icons=true&rank_icon=github&theme=transparent&hide=contribs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shurintou&layout=compact&theme=transparent&hide=objective-j&langs_count=8&card_width=320" />
+</a>
 
 ## :books:My Blog
 
 I share my thoughts on programming, technology, and other topics on my blog. Check it out here: [My Blog](https://shurintou.github.io/) 
+![](https://github.com/shurintou/shurintou.github.io/blob/master/image/readme/screenshot.gif)
 
 ## :star2:My Projects
 
