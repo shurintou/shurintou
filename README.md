@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shurintou&show_icons=true&rank_icon=github&theme=transparent&hide=contribs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shurintou&show_icons=true&rank_icon=github&theme=transparent&hide=contribs&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shurintou&layout=compact&theme=transparent&hide=objective-j&langs_count=8&card_width=320" />
