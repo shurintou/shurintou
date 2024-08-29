@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 👋 Hi, I'm **Shurintou**!  
 :tokyo_tower: I'm from China, currently based in Tokyo, Japan.   
 🎓 I’m a `web application developer` with a passion for creating innovative solutions.  
-💼 Currently learning Python, focused on continuous learning and personal growth.
+💼 Currently learning AWS certification, focused on continuous learning and personal growth.
 
 ## 🔧 Technologies & Tools
 
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - Tools: 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![SVN](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ,etc.
 
