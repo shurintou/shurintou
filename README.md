@@ -52,7 +52,7 @@ I share my thoughts on programming, technology, and other topics on my blog. Che
 
 Recent posts:
 - [Some memos about Typescript](https://shurintou.github.io/post?id=30)
-- [Override the css of the ant-modal-content in antd](https://shurintou.github.io/post?id=23)
+- [Override the CSS of the ant-modal-content in antd](https://shurintou.github.io/post?id=23)
 - [When React Re-Renders](https://shurintou.github.io/post?id=3)
 
 ## :star2:My Projects
