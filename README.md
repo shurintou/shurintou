@@ -50,6 +50,11 @@ Here are some ideas to get you started:
 I share my thoughts on programming, technology, and other topics on my blog. Check it out here: [My Blog](https://shurintou.github.io/) 
 ![](https://github.com/shurintou/shurintou.github.io/blob/master/image/readme/screenshot.gif)
 
+Recent posts:
+- [Some memos about Typescript](https://shurintou.github.io/post?id=30)
+- [Override the css of the ant-modal-content in antd](https://shurintou.github.io/post?id=23)
+- [When React Re-Renders](https://shurintou.github.io/post?id=3)
+
 ## :star2:My Projects
 
 Here are some of the projects I've been working on:
