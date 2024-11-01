@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ,etc.
 
+![AWS SSA-C03 Badge](https://github.com/shurintou/shurintou/blob/master/aws-certified-solutions-architect-associate.png)
+
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
